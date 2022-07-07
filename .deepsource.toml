@@ -6,3 +6,4 @@ enabled = true
 
   [analyzers.meta]
   import_root = "github.com/subham-deepsource/cli"
+  track_test_doc_coverage = true
